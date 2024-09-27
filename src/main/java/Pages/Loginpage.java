@@ -7,5 +7,7 @@ public class Loginpage {
         String pwd = "basheer";
         System.out.println(userName);
         System.out.println(pwd);
+        System.out.println("login");
+        System.out.println("logout");
     }
 }
